@@ -1,0 +1,12 @@
+.padded {
+    margin-top: 20px;
+}
+
+.link {
+    cursor: pointer;
+    padding-left: 10px;
+}
+
+.active {
+    text-decoration: underline;
+}
